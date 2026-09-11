@@ -1,0 +1,7 @@
+Aaitravo=https://github.com/prince33-dec/prince33-dec.github.io/releases/latest/download/Aaitravo.apk
+Attendance=https://github.com/prince33-dec/prince33-dec.github.io/releases/latest/download/Attendance.apk
+MediTime=https://github.com/prince33-dec/prince33-dec.github.io/releases/latest/download/MediTime.apk
+NearbyReminders=https://github.com/prince33-dec/prince33-dec.github.io/releases/latest/download/NearbyReminders.apk
+SafeCipher=https://github.com/prince33-dec/prince33-dec.github.io/releases/latest/download/SafeCipher.apk
+SmartExpense=https://github.com/prince33-dec/prince33-dec.github.io/releases/latest/download/SmartExpense.apk
+TripSplitter=https://github.com/prince33-dec/prince33-dec.github.io/releases/latest/download/TripSplitter.apk
