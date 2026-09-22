@@ -21,12 +21,10 @@ Create a GitHub Release and upload APK assets with these exact names:
 
 - `Aaitravo.apk`
 - `Attendance.apk`
-- `MediTime.apk`
+- `MedTempus.apk`
 - `NearbyReminders.apk`
 - `SafeCipher.apk`
 - `SmartExpense.apk`
 - `TripSplitter.apk`
 
 The website links to `https://github.com/prince33-dec/prince33-dec.github.io/releases/latest/download/<asset-name>` so the same website can keep working when a newer release is published.
-
-See [DEPLOYMENT.md](DEPLOYMENT.md) for the upload checklist.
