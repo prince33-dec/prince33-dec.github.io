@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" rx="48" fill="#eefaf5"/><rect x="95" y="80" width="1010" height="540" rx="38" fill="white" stroke="#bfe5d2" stroke-width="5"/>
+<path d="M600 150l145 58v105c0 110-70 180-145 218-75-38-145-108-145-218V208z" fill="#dff5e9" stroke="#36a66b" stroke-width="8"/>
+<rect x="555" y="285" width="90" height="105" rx="18" fill="#36a66b"/><circle cx="600" cy="310" r="15" fill="white"/><path d="M600 325v40" stroke="white" stroke-width="10" stroke-linecap="round"/>
+<text x="150" y="160" font-family="Arial" font-size="42" font-weight="700" fill="#173e2d">SafeCipher</text>
+<text x="150" y="205" font-family="Arial" font-size="23" fill="#557468">Encrypt text before sharing</text>
+<rect x="160" y="455" width="270" height="72" rx="18" fill="#f1faf5"/><text x="195" y="501" font-family="Arial" font-size="25" fill="#2e7652">Password</text>
+<path d="M470 491h160" stroke="#74bd99" stroke-width="12" stroke-linecap="round"/><text x="670" y="501" font-family="Arial" font-size="25" fill="#2e7652">PBKDF2 key</text>
+<path d="M830 491h130" stroke="#74bd99" stroke-width="12" stroke-linecap="round"/><text x="820" y="555" font-family="Arial" font-size="24" fill="#557468">AES + salt + IV</text>
+</svg>

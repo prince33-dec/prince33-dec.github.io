@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" rx="48" fill="#f3f9e9"/><rect x="95" y="75" width="1010" height="550" rx="40" fill="white" stroke="#d0e5b4" stroke-width="5"/>
+<text x="150" y="150" font-family="Arial" font-size="42" font-weight="700" fill="#42621e">Attendance</text><text x="150" y="195" font-family="Arial" font-size="23" fill="#71845b">Morning + evening offline tracking</text>
+<rect x="160" y="255" width="880" height="62" rx="14" fill="#eef7e1"/><text x="190" y="295" font-family="Arial" font-size="22" font-weight="700" fill="#4c662c">Student</text><text x="590" y="295" font-family="Arial" font-size="22" font-weight="700" fill="#4c662c">Morning</text><text x="810" y="295" font-family="Arial" font-size="22" font-weight="700" fill="#4c662c">Evening</text>
+<g font-family="Arial" font-size="21" fill="#52683a"><text x="190" y="365">Student 01</text><text x="590" y="365">✓ Present</text><text x="810" y="365">✓ Present</text><text x="190" y="425">Student 02</text><text x="590" y="425">— Leave</text><text x="810" y="425">✓ Present</text><text x="190" y="485">Student 03</text><text x="590" y="485">✕ Absent</text><text x="810" y="485">✓ Present</text></g>
+<rect x="330" y="530" width="540" height="58" rx="17" fill="#78a94b"/><text x="485" y="568" font-family="Arial" font-size="22" fill="white">Date report → Excel / PDF</text>
+</svg>

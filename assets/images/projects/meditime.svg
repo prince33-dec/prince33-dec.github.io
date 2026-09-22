@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" rx="48" fill="#ffffff"/>
+<rect x="90" y="70" width="1020" height="560" rx="40" fill="#ffffff" stroke="#e6e6e6" stroke-width="5"/>
+<text x="150" y="150" font-family="Arial" font-size="42" font-weight="700" fill="#222222">MediTime</text>
+<text x="150" y="195" font-family="Arial" font-size="23" fill="#666666">Medication reminders &amp; adherence</text>
+<circle cx="600" cy="365" r="145" fill="#ffffff" stroke="#222222" stroke-width="8"/>
+<path d="M600 255v110l75 45" fill="none" stroke="#222222" stroke-width="16" stroke-linecap="round"/>
+<circle cx="600" cy="365" r="12" fill="#222222"/>
+<rect x="175" y="280" width="260" height="75" rx="20" fill="#ffffff" stroke="#dddddd" stroke-width="3"/>
+<text x="215" y="328" font-family="Arial" font-size="24" fill="#333333">08:00 AM</text>
+<rect x="765" y="280" width="260" height="75" rx="20" fill="#ffffff" stroke="#dddddd" stroke-width="3"/>
+<text x="805" y="328" font-family="Arial" font-size="24" fill="#333333">12:30 PM</text>
+<rect x="370" y="510" width="460" height="65" rx="18" fill="#222222"/>
+<text x="470" y="552" font-family="Arial" font-size="24" fill="#ffffff">Reminder → Take medicine</text>
+</svg>

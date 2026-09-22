@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" rx="48" fill="#eefcff"/><rect x="90" y="80" width="1020" height="540" rx="40" fill="white" stroke="#bce7ef" stroke-width="5"/>
+<text x="150" y="155" font-family="Arial" font-size="42" font-weight="700" fill="#165b68">TripSplitter</text><text x="150" y="200" font-family="Arial" font-size="23" fill="#668a91">Group expenses → who owes whom</text>
+<circle cx="270" cy="340" r="58" fill="#d8f4f8"/><circle cx="600" cy="340" r="58" fill="#d8f4f8"/><circle cx="930" cy="340" r="58" fill="#d8f4f8"/>
+<circle cx="270" cy="330" r="20" fill="#38a6b8"/><circle cx="600" cy="330" r="20" fill="#38a6b8"/><circle cx="930" cy="330" r="20" fill="#38a6b8"/>
+<path d="M330 340h210M660 340h210" stroke="#38a6b8" stroke-width="12" stroke-linecap="round"/><path d="M510 315l30 25-30 25M840 315l30 25-30 25" fill="none" stroke="#38a6b8" stroke-width="10"/>
+<text x="210" y="445" font-family="Arial" font-size="23" fill="#3d6971">Amit paid</text><text x="540" y="445" font-family="Arial" font-size="23" fill="#3d6971">Riya owes</text><text x="865" y="445" font-family="Arial" font-size="23" fill="#3d6971">Jay settles</text>
+<rect x="390" y="510" width="420" height="60" rx="18" fill="#38a6b8"/><text x="485" y="550" font-family="Arial" font-size="23" fill="white">Share settlement summary</text>
+</svg>

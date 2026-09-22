@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" rx="48" fill="#fff0f5"/><rect x="90" y="75" width="1020" height="550" rx="40" fill="white" stroke="#f1c6d8" stroke-width="5"/>
+<text x="150" y="150" font-family="Arial" font-size="42" font-weight="700" fill="#74334f">NearbyReminders</text><text x="150" y="195" font-family="Arial" font-size="23" fill="#93687a">Reminder triggered by a place</text>
+<path d="M610 230c-85 0-150 65-150 150 0 105 150 205 150 205s150-100 150-205c0-85-65-150-150-150z" fill="#ffdce9" stroke="#d45c88" stroke-width="8"/><circle cx="610" cy="380" r="52" fill="#d45c88"/><circle cx="610" cy="380" r="20" fill="white"/>
+<circle cx="310" cy="470" r="34" fill="#f2b5cb"/><circle cx="910" cy="470" r="34" fill="#f2b5cb"/><path d="M344 470h210M676 470h200" stroke="#d45c88" stroke-width="10" stroke-dasharray="18 15"/>
+<rect x="220" y="535" width="780" height="48" rx="16" fill="#fff0f5"/><text x="350" y="568" font-family="Arial" font-size="22" fill="#74334f">Arrive at place → automatic reminder</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" rx="48" fill="#eef6ff"/>
+<path d="M0 520 C180 430 280 570 450 480 S760 410 930 470 S1100 500 1200 420 V700 H0Z" fill="#d9eaff"/>
+<rect x="95" y="95" width="1010" height="500" rx="36" fill="white" stroke="#c7ddf7" stroke-width="5"/>
+<circle cx="235" cy="205" r="64" fill="#e8f3ff"/><path d="M205 218l30-55 30 55-30 22z" fill="#4b8ee8"/>
+<text x="330" y="190" font-family="Arial" font-size="42" font-weight="700" fill="#16365c">AaiTravo</text>
+<text x="330" y="235" font-family="Arial" font-size="23" fill="#5b6f86">AI travel planner</text>
+<rect x="165" y="300" width="250" height="180" rx="22" fill="#f5f9ff"/><text x="195" y="340" font-family="Arial" font-size="24" font-weight="700" fill="#24476d">Trip plan</text>
+<path d="M200 390h170M200 425h135M200 460h155" stroke="#78a9e8" stroke-width="16" stroke-linecap="round"/>
+<rect x="470" y="300" width="250" height="180" rx="22" fill="#f5f9ff"/><text x="500" y="340" font-family="Arial" font-size="24" font-weight="700" fill="#24476d">Places + weather</text>
+<circle cx="545" cy="405" r="42" fill="#cfe7ff"/><path d="M525 420l20-34 20 34z" fill="#4b8ee8"/>
+<rect x="775" y="300" width="250" height="180" rx="22" fill="#f5f9ff"/><text x="805" y="340" font-family="Arial" font-size="24" font-weight="700" fill="#24476d">Budget</text>
+<text x="805" y="410" font-family="Arial" font-size="46" font-weight="700" fill="#4b8ee8">₹</text><path d="M865 395h120M865 430h90" stroke="#9bbce8" stroke-width="14" stroke-linecap="round"/>
+</svg>
